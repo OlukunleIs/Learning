@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.con{
+    width: 300px;
+    height: auto;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 30px;
+
+}
+
+.numbers{
+    padding: 20px;
+    align-items: center;
+
+}
+
+input{
+    height: 40px;
+    width: 100%;
+}
+button{
+    width: 70px;
+    height: 40px;
+    margin: 2px;
+}
